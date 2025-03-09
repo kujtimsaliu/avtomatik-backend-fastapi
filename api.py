@@ -5,6 +5,12 @@ from sqlalchemy.orm import Session
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 
+import httpx
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import Response
+from starlette.background import BackgroundTask
+import urllib.parse
+
 from database import SessionLocal
 from models import Product, Store, Pricing
 
@@ -505,6 +511,36 @@ def get_stats(db: Session = Depends(get_db)):
             "max_price": price_stats[2]
         }
     }
+
+
+@app.get("/proxy-image/")
+async def proxy_image(url: str):
+    """
+    Proxy an image from any URL through the backend to avoid CORS issues.
+    Usage: /proxy-image/?url=https://www.anhoch.com/storage/media/image.jpg
+    """
+    try:
+        # URL decode the parameter
+        decoded_url = urllib.parse.unquote(url)
+
+        # Use httpx to get the image
+        async with httpx.AsyncClient() as client:
+            response = await client.get(decoded_url)
+
+            if response.status_code != 200:
+                raise HTTPException(status_code=response.status_code, detail="Failed to fetch image")
+
+            # Get the content type or default to image/jpeg
+            content_type = response.headers.get("content-type", "image/jpeg")
+
+            # Return the image data with the correct content type
+            return Response(
+                content=response.content,
+                media_type=content_type,
+                background=BackgroundTask(response.aclose)
+            )
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error proxying image: {str(e)}")
 
 
 if __name__ == "__main__":
