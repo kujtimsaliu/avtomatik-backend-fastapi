@@ -1,0 +1,909 @@
+{
+  "totalProducts": 100,
+  "lastScrapedCategory": "https://www.neptun.mk/monitori1.nspx",
+  "currentCategoryIndex": 1,
+  "totalCategories": 1,
+  "scrapeDate": "2025-03-09T02:30:07.655Z",
+  "products": [
+    {
+      "name": "Монитор FUEGO 24ТZ75FI, 24\"(60.4cm), 5ms",
+      "price": "3.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/FUEGO-24%D0%A2Z75FI",
+      "imageUrl": "https://www.neptun.mk/2023/10/30/01_8a44fcfc-d824-4b02-82a2-b61b022a361a.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор AOC 24\" 24B2XDM FHD 75Hz",
+      "price": "4.599.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-24--24B2XDM-FHD-75Hz",
+      "imageUrl": "https://www.neptun.mk/2024/06/10/%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80-removebg-preview.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор LG 24MR400-B 24\"(60.4cm) FHD IPS 100Hz",
+      "price": "4.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-24MR400-B-24--FHD-IPS-100Hz",
+      "imageUrl": "https://www.neptun.mk/2024/03/21/LG_8259b215-54a6-4858-a791-600907232f65.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "AOC 24\" 24B3HA2 IPS FHD 100Hz",
+      "price": "4.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-24--24B3HA2-IPS-FHD-100Hz",
+      "imageUrl": "https://www.neptun.mk/2025/01/28/Screenshot2025-01-28153341_f9ac01e7-b27d-4128-9716-2abe6ffcec55.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "XIAOMI 27\" A27i P27FBA-RAGL FLAT 100Hz IPS FHD",
+      "price": "5.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/XIAOMI-27--A27i-P27FBA-RAGL-FLAT-100Hz-IPS-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/09/13/Screenshot2024-08-27151336_8e027845-bf5f-47fb-8078-0f94fd952ac2.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор AOC 24\" 24B2XHM2 FHD 75Hz, 24\"(60.4cm), 4ms",
+      "price": "5.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-24--24B2XHM2-FHD-75Hz-",
+      "imageUrl": "https://www.neptun.mk/2023/02/17/Capture_b73e89ad-48d2-4667-9c1d-6d560eb93ce4.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор LG 22MR410-B 22\" FHD, VA, 75Hz, 21.45\"(60.4cm)",
+      "price": "5.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-22MR410-B-22--FHD-VA-75Hz",
+      "imageUrl": "https://www.neptun.mk/2024/02/23/LG_d375b414-0ae7-4a8f-824d-b993c63703db.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "SAMSUNG 24\" LS24D360GAUXEN Curved 100Hz VA FHD",
+      "price": "5.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-24--LS24D360GAUXEN-Curved-100Hz-VA-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/11/27/LS24D360GAUXEN_98df1a59-fd51-4ea6-8e8b-75d9c295dad6.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "XIAOMI 24\" A24i FLAT 100Hz IPS FHD (ELA5444EU)",
+      "price": "5.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/XIAOMI-24--A24i-P24FBA-RAGL-FLAT-100Hz-IPS-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/09/13/Screenshot2024-08-27153730_740ba894-5301-46cb-bf29-dc0f8fd00a49.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "DELL 24\" SE2425H VA FHD 75Hz",
+      "price": "5.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111620-DELL-24--SE2425H-VA-FHD-75Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom18_e572fd41-3af1-4bf6-9d7c-a7c0417fc992.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор FUEGO 27ТZ75FI, 27\"(68.5cm), 5ms",
+      "price": "5.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/FUEGO-27%D0%A2Z75FI",
+      "imageUrl": "https://www.neptun.mk/2023/10/30/01_6f292f5a-47b4-4065-bcce-84d0c787ed5e.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LS24C360EAUXEN 24\" Curved 75 Hz FHD",
+      "price": "5.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LS24C360EAUXEN-24--Curved-75-Hz-FHD-",
+      "imageUrl": "https://www.neptun.mk/2023/05/28/S3_85d3e5b6-4285-4fce-a028-07b4c7788759.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор SAMSUNG 27\"(68.6cm) LS27C310EAUXEN, FLAT, 75Hz, IPS, FHD",
+      "price": "6.199.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27C310EAUXEN-FLAT-75Hz-IPS-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/04/08/LS27C310EAUXEN_9ad41de3-8da3-43ab-8a8e-5e4a862dea9f.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "LG 27MS550-B 27\" FHD IPS 100Hz Speakers",
+      "price": "6.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-27MS550-B-27--FHD-IPS-100Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/27inchipslg_e8cc4fbf-d852-481d-b8b5-4612cbfd9eba.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LF24T450FQRXEN 24\" FHD",
+      "price": "6.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LF24T450FQRXEN-24--FHD",
+      "imageUrl": "https://www.neptun.mk/2023/05/28/Samsung02_e4950adc-0e09-4947-b807-a2351cd2d044.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор DELL SE2422H, 1080p. 75 Hz, HDMI, VGA",
+      "price": "6.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-SE2422H",
+      "imageUrl": "https://www.neptun.mk/2023/03/06/Dell.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "LG 24\" 24MS550-B FHD IPS HAS 100Hz + Speakers",
+      "price": "6.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111926-LG-24--24MS550-B-FHD-IPS-HAS-100Hz---Speakers",
+      "imageUrl": "https://www.neptun.mk/2025/03/05/Screenshot2025-03-05at12-42-2424IPSFullHDmonitor-24MS550-BLGCA_d59fc0e3-be31-45a6-8f99-811480795f0d.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "SAMSUNG 27\" LS27D366GAUXEN Curved 100Hz VA FHD",
+      "price": "6.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27D366GAUXEN-Curved-100Hz-VA-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/11/27/LS24D360GAUXEN-Copy_4de9b5c9-0475-43cc-9698-9e5054cb2463.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.473Z"
+    },
+    {
+      "name": "Монитор SAMSUNG 27\"(68.6cm) LS27C360EAUXEN, Curved, 75Hz, VA, FHD",
+      "price": "7.199.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27C360EAUXEN-Curved-75Hz-VA-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/04/08/LS27C360EAUXEN_0deec72c-8c03-4a9e-9d2f-fa4129c2140a.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.474Z"
+    },
+    {
+      "name": "AOC GAMING 24\" 24G4XE IPS FHD 180Hz",
+      "price": "7.299.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-GAMING-24--24G4XE-IPS-FHD-180Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/01/24G4XE_F_KV-large.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:27.474Z"
+    },
+    {
+      "name": "Монитор LG 27MP60GP-B 27\"(68.6cm) FHD IPS 75Hz, 5ms",
+      "price": "7.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-27MP60GP-B-27--FHD-IPS-75Hz",
+      "imageUrl": "https://www.neptun.mk/2024/02/23/lgGamer_d17479e0-a793-4638-8fe3-2ce083ceedf2.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Mонитор FUEGO 27TZ180FI G2, 180Hz, 27\"(68.6cm)",
+      "price": "7.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/FUEGO-27TZ180FI-G2",
+      "imageUrl": "https://www.neptun.mk/2024/05/02/untitled.43162651_eaf452a2-084e-4c92-97f6-a23d5cdd037a.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор PHILIPS 24\" Evnia 24M1N3200ZS/00, FHD, 23.8\"(60.5cm), 165Hz, 4ms",
+      "price": "7.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/PHILIPS-24--Evnia-24M1N3200ZS-00-FHD-165Hz",
+      "imageUrl": "https://www.neptun.mk/2023/11/07/Philipsmonitor_abe71e3a-8282-496a-b603-adbbc1d8acd7.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "SAMSUNG GAMING 24\" LS24DG302EUXEN VA FHD HAS 180Hz",
+      "price": "7.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-GAMING-24--LS24DG302EUXEN-FLAT-180Hz-VA-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/11/27/24g3_7cb742ad-0bbd-4c05-9c98-18a30c5cc48a.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LS27C366EAUXEN 27\" Curved 75 Hz FHD",
+      "price": "7.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LS27C366EAUXEN-27--Curved-75-Hz-FHD-",
+      "imageUrl": "https://www.neptun.mk/2023/05/28/SAM_948a0a87-6dbe-4dce-9575-4c3acdd6b044.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "DELL 27\" SE2725H VA FHD 75Hz",
+      "price": "7.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111624-DELL-27--SE2725H-VA-FHD-75Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom22_41511212-89ea-4785-a09c-716f5dde19a1.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LF27T450FQRXEN FLAT 75Hz IPS FHD",
+      "price": "7.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LF27T450FQRXEN-FLAT-75Hz-IPS-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/06/05/LF27T450FQRXEN_e9e95a62-ecbe-44c9-8955-3081c8b96e3d.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор LG 24GQ50F-B 24\"(60.5cm) FHD VA 165Hz",
+      "price": "7.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-24GQ50F-B-24--FHD-VA-165Hz",
+      "imageUrl": "https://www.neptun.mk/2024/03/21/LgUltraGear_ca60e7c0-1a85-4017-b771-d19ba3abaf26.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор LG 24GN60R-B 24\"(60.5cm) FHD IPS 144Hz, 1ms",
+      "price": "7.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-24GN60R-B-24--FHD-IPS-144Hz",
+      "imageUrl": "https://www.neptun.mk/2024/02/23/UltraGear_10361875-3f2f-49db-8c45-74d8a8215585.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор AOC 24\" 24G2SAE/BK FHD 165Hz, 24\"(60.9cm), 1ms",
+      "price": "7.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-24--24G2SAE-BK-FHD-165Hz",
+      "imageUrl": "https://www.neptun.mk/2023/07/04/AOC.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор DELL SE2722H, 1080p. 75 Hz, HDMI, VGA",
+      "price": "8.199.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-SE2722H",
+      "imageUrl": "https://www.neptun.mk/2023/03/06/Dell.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор AOC 27\" 27G2SPAE/BK FHD 165Hz, 27\"(68.6cm), 1ms",
+      "price": "8.699.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-27--27G2SPAE-BK-FHD-165Hz",
+      "imageUrl": "https://www.neptun.mk/2023/09/01/AOC_0a721f33-9215-4f58-953a-45efe1df3eb9.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LC 27F390 FHRXEN, 1080p. 250cd/m2, 4ms",
+      "price": "8.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LC-27F390-FHRXEN",
+      "imageUrl": "https://www.neptun.mk/2021/08/27/8806092176874-01-1-ung-2000Wx1500H_d3cd6f31-b07f-4406-97ea-e5872802e896.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "LG GAMING 27GS60F-B FHD IPS 180Hz",
+      "price": "8.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-GAMING-27GS60F-B-FHD-IPS-180Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/lg27180hy_86b7517e-893c-4e51-a295-ecf76512bee7.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "AOC GAMING 27\" 27G4XE IPS FHD 180Hz",
+      "price": "8.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-GAMING-27--27G4XE-IPS-FHD-180Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/01/AOC_27G4XE_F_KV-large.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "LG 32MR50C-BQ Curved FHD 100Hz",
+      "price": "8.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-32MR50C-BQ-Curved-FHD-100Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/21/lg32100hz_3adb9d12-f89a-44d4-9c9f-9eed9b426dc2.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор DELL S2421HS 24\", 23.8\"(60cm), 1080p. HDMI, DisplayPort",
+      "price": "8.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-S2421HS-24-",
+      "imageUrl": "https://www.neptun.mk/2023/03/06/Dell_mon.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "SAMSUNG GAMING 27\" LS27DG302EUXEN Odyssey G3 G30D FLAT 180Hz VA FHD",
+      "price": "9.199.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27DG302EUXENOdyssey-G3-G30D-FLAT-180Hz-VA-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/10/10/LS27DG302EUXEN_2d1b9a05-0247-4bb5-9b13-0a1a1455c2df.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "DELL 24\" P2425HE IPS FHD HAS 100Hz",
+      "price": "9.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111622-DELL-24--P2425HE-IPS-FHD-HAS-100Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom20_dc102847-689d-4776-83f1-6d91e2fa5071.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор SAMSUNG 27\"(68.6cm) LS27C390EAUXEN, Curved, 75Hz, VA, FHD",
+      "price": "9.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27C390EAUXEN-Curved-75Hz-VA-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/04/08/LS27C390EAUXEN_52c8d4cc-24ea-42a9-9b93-d7e707413088.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:37.195Z"
+    },
+    {
+      "name": "Монитор LG 26WQ500-B 26\"(66cm) UltraWide FHD IPS 75hz 5ms",
+      "price": "9.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-26WQ500-B-26--UltraWide-FHD-IPS-75hz",
+      "imageUrl": "https://www.neptun.mk/2024/02/23/LGUW_99882185-81c1-47f2-bdc4-1f5000a11b99.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор AOC 27\" C27G2E/BK, CURVED, FHD, 165Hz, 1ms",
+      "price": "9.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-27--C27G2E-BK-CURVED-FHD-165Hz",
+      "imageUrl": "https://www.neptun.mk/2023/07/10/AOC_9a206067-9c14-4eaa-808c-d5f5c8b9d0c5.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор DELL P2422H 24\", 24\"(60.9cm), 1080p. IPS, 60 Hz, HDMI, VGA, USB",
+      "price": "10.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-P2422H-24-",
+      "imageUrl": "https://www.neptun.mk/2022/09/21/61gwkgOCxWL.ACSL1500_050f047d-bbea-4feb-99b5-538370dca234.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор PHILIPS 25\" Evnia 25M2N3200W/00 FHD 240 Hz , 24.5\"(62.2cm), 0.5ms",
+      "price": "10.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/PHILIPS-25--Evnia-25M2N3200W-00-FHD-240-Hz-",
+      "imageUrl": "https://www.neptun.mk/2023/06/07/gamingmonitorphilips_8dbbd9a2-036d-4885-b820-80d47d928b32.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LS25BG400EUXEN 25\"(62.2cm), FLAT, 240Hz, IPS, FHD",
+      "price": "10.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LS25BG400EUXEN-25--FLAT-240Hz-IPS-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/03/26/SamsungG4_189dc49d-1585-4b07-88a9-603ccd51c70a.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор DELL P2222H, 22\"(55.8cm), 1080p. IPS, 60 Hz, DP, HDMI, VGA, USB",
+      "price": "11.199.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-P2222H",
+      "imageUrl": "https://www.neptun.mk/2023/03/06/Dell_mon.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "DELL 27\" S2725HS IPS FHD HAS 100Hz",
+      "price": "11.299.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111625-DELL-27--S2725HS-IPS-FHD-HAS-100Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom23_b40d0111-2df3-46de-a558-c4f5aa09f2d3.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор DELL G2422HS, FHD, 165Hz, 24\"(60.9cm), 1/4ms",
+      "price": "11.299.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/MONITOR-DELL-G2422HS",
+      "imageUrl": "https://www.neptun.mk/2023/12/27/this_ffb6d97f-4b10-4c33-8c88-3c0860595dde.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор SAMSUNG 27\"(68.6cm) LS27AG300NRXEN FLAT, 144Hz, VA, FHD",
+      "price": "11.599.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27AG300NRXEN-FLAT-144Hz-VA-FHD",
+      "imageUrl": "https://www.neptun.mk/2024/04/08/LS27AG300NRXEN_8bec9559-2c41-4058-b5d9-78d9035a42d4.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "AOC GAMING 27\" Q27G4XF IPS QHD 180Hz",
+      "price": "11.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-GAMING-27--Q27G4XF-IPS-QHD-180Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/01/Q27G4XF_FRONT_FIXED-large.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "AOC GAMING 27\" C27G4ZXU CURVED VA FHD HAS 280Hz",
+      "price": "11.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-GAMING-27--C27G4ZXU-CURVED-VA-FHD-HAS-280Hz",
+      "imageUrl": "https://www.neptun.mk/2025/01/28/image-Photoroom9_2d098c89-f2a8-49c4-b0fc-f89fc43e416d.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "DELL 27\" P2725H IPS FHD HAS 100Hz",
+      "price": "11.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111626-DELL-27--P2725H-IPS-FHD-HAS-100Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom24_2c4b07d0-f3e0-46f9-a292-c9da180fd89c.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LS27CG552EUXEN 27\"(68.6cm), Curved, 165Hz, VA, WQHD",
+      "price": "11.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LS27CG552EUXEN-27--Curved-165Hz-VA-WQHD",
+      "imageUrl": "https://www.neptun.mk/2024/03/26/SamsungG5_7adf4b54-847b-4629-b0d9-65ca1ac07a7d.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "AOC GAMING 27\" 27G2ZN3/BK FHD VA 280HZ",
+      "price": "12.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-27--27G2ZN3-BK-FHD-VA-280HZ",
+      "imageUrl": "https://www.neptun.mk/2024/09/03/AOC_20ac53d6-264c-46cf-9ccb-7faac1b04004.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.501Z"
+    },
+    {
+      "name": "Монитор SAMSUNG 27\" LS27BG400EUXEN FHD 240 Hz, 27\"(68.58cm), 1ms",
+      "price": "12.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27BG400EUXEN-FHD-240-Hz",
+      "imageUrl": "https://www.neptun.mk/2023/03/06/zelen_mon.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.502Z"
+    },
+    {
+      "name": "Монитор AOC 27\" Q27G2E/BK VA QHD 155Hz, 27\"(68.6cm), 1ms",
+      "price": "13.199.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-27--Q27G2E-BK-VA-QHD-144Hz",
+      "imageUrl": "https://www.neptun.mk/2023/10/12/AOC_0665553b-ce65-4bef-8ffd-01efb0a4c1bf.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.502Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LS32C390EAUXEN 32\" Curved 75 Hz FHD",
+      "price": "13.599.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LS32C390EAUXEN-32--Curved-75-Hz-FHD-",
+      "imageUrl": "https://www.neptun.mk/2023/05/28/LS32C390EAUXEN_9c174582-2c85-4980-a4fb-8dac91e5c1c0.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.502Z"
+    },
+    {
+      "name": "DELL 24\" U2424H UltraSharp IPS FHD HAS 120Hz",
+      "price": "13.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111621-DELL-24--U2424H-UltraSharp-IPS-FHD-HAS-120Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom19_1f4d6482-eab2-426b-a5f1-b04ff256738c.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.502Z"
+    },
+    {
+      "name": "DELL 27\" P2725HE IPS FHD HAS 100Hz",
+      "price": "13.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111627-DELL-27--P2725HE-IPS-FHD-HAS-100Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom24-Copy_9aa3843f-6952-4466-9358-1bba1c39c2fc.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.502Z"
+    },
+    {
+      "name": "LG GAMING 32GS60QC-BQ CURVED QHD VA 180Hz",
+      "price": "13.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-GAMING-32GS60QC-BQ-QHD-VA-180Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/lg32qhd180hz_e4aec2f4-fa02-4cd9-84b0-fb5c08a0d991.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:47.502Z"
+    },
+    {
+      "name": "LG GAMING 27GS75Q-B QHD IPS 200Hz",
+      "price": "14.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-GAMING-27GS75Q-B-QHD-IPS-200Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/lg27qhd200hz_d27b6010-64ed-4e14-96d3-0fd4f81e3299.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "DELL 24\" P2425HE IPS FHD HAS 100Hz USB-C",
+      "price": "14.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111623-DELL-24--P2425HE-IPS-FHD-HAS-100Hz-USB-C",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom21_a8be422a-d5b8-402c-8a36-9effcd069991.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "Монитор PHILIPS 32\" Curved Evnia 32M1C5200W/00 FHD 240 Hz, 32\"(80cm)",
+      "price": "14.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/PHILIPS-32--Curved-Evnia-32M1C5200W-00-FHD-240-Hz",
+      "imageUrl": "https://www.neptun.mk/2023/06/21/Philips_26896246-93eb-4a6c-aabd-e5ca22f77d58.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "DELL 27\" S2722DC IPS QHD HAS 75Hz USB-C",
+      "price": "15.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111629-DELL-27--S2722DC-IPS-QHD-HAS-75Hz-USB-C",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom26_fe0987a2-b159-49cb-8d29-3bdbf126ccf5.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "SAMSUNG 27\" LS27DG500EUXEN Odyssey G50D FLAT 180Hz IPS QHD",
+      "price": "16.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27DG500EUXEN-Odyssey-G50D-FLAT-180Hz-IPS-QHD",
+      "imageUrl": "https://www.neptun.mk/2024/10/05/LS27DG500EUXEN_7885920d-9662-4648-8ca8-e6a6cce78471.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "SAMSUNG 27\" LS27D700EAUXEN IPS UHD 60Hz",
+      "price": "16.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-27--LS27D700EAUXEN-FLAT-60Hz-IPS-UHD",
+      "imageUrl": "https://www.neptun.mk/2024/11/27/27s7_071e367b-f480-4fc0-b30e-f20fd8a5a73f.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "Монитор SAMSUNG32\"(80cm) LS32CG552EUXEN, Curved, 165Hz, VA, WQHD",
+      "price": "16.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-32--LS32CG552EUXEN-Curved-165Hz-VA-WQHD",
+      "imageUrl": "https://www.neptun.mk/2024/04/08/LS32CG552EUXEN_2131e083-457d-45ac-b6e1-8776e5b15303.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "Монитор DELL U2422H, 24\"(60.9cm), 1080p. HDMI, DisplayPort, USB Type-C",
+      "price": "16.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-U2422H",
+      "imageUrl": "https://www.neptun.mk/2023/03/06/Dell_FHD.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "Монитор SAMSUNG LS34C500GAUXEN 34\" 100 Hz UltraWide QHD",
+      "price": "16.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/MONITOR-SAMSUNG-LS34C500GAUXEN-34--100-Hz-UltraWide-QHD",
+      "imageUrl": "https://www.neptun.mk/2023/05/28/S5_a6dfa190-71a9-421a-9c91-dba11df456f9.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "LG GAMING 27GR83Q-B QHD IPS 240Hz",
+      "price": "17.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-GAMING-27GR83Q-B-QHD-IPS-240Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/lg27qhd240hz_ea9a59de-d531-4f08-96e9-c384e0f6e8b3.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "Монитор SAMSUNG 32\"(80cm), LS32A600UUPXEN FLAT, 75Hz, VA, WQHD",
+      "price": "17.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-32--LS32A600UUPXEN-FLAT-75Hz-VA-WQHD",
+      "imageUrl": "https://www.neptun.mk/2024/04/08/LS32A600UUPXEN_0129317a-cb92-4858-a0ef-6cc62176e39a.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "SAMSUNG GAMING 32\" LS32DG500EUXEN IPS WQHD HAS 180Hz",
+      "price": "18.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-GAMING-32--LS32DG500EUXEN-FLAT-180Hz-IPS-WQHD",
+      "imageUrl": "https://www.neptun.mk/2024/11/27/32g5_06ed4565-6c6a-4ee3-a60f-6da641ba1e82.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "LG GAMING 27\" 27GS85Q-B QHD Nano HAS 200Hz",
+      "price": "18.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111931-LG-GAMING-27--27GS85Q-B-QHD-Nano-HAS-200Hz",
+      "imageUrl": "https://www.neptun.mk/2025/03/05/Screenshot2025-03-05at14-17-3927UltraGearQHDNanoIPSgamingmonitor1msGtG180HzOC200HzDisplayHDR400-27GS85Q-BLGHK_ead94d21-3c41-4ef6-8e82-6125666e8e82.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "Монитор DELL Alienware 25\" AW2523HF FHD 360Hz, 25\"(63.5cm), 1ms",
+      "price": "18.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-Alienware-25--AW2523HF-FHD-360Hz",
+      "imageUrl": "https://www.neptun.mk/2023/05/05/Dell_aec9903e-162e-4c42-aee6-e44bc40a6a69.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "SAMSUNG 32\" LS32D700EAUXEN VA UHD 60Hz",
+      "price": "19.199.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-32--LS32D700EAUXEN-FLAT-60Hz-VA-UHD",
+      "imageUrl": "https://www.neptun.mk/2024/11/27/32s7_647c36ad-834b-4507-9481-da35fe811c33.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.558Z"
+    },
+    {
+      "name": "SAMSUNG 32\" LS32D600UAUXEN IPS QHD HAS 100Hz USB-C(90W)",
+      "price": "19.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111842-SAMSUNG-32--LS32D600UAUXEN-IPS-QHD-HAS-100Hz-USB-C-90W-",
+      "imageUrl": "https://www.neptun.mk/2025/03/04/Screenshot2025-03-04at09-47-5132QHDViewFinityS6S60UDMonitorLS32D600UAUXENSamsungMK_fd02df5c-eee9-48f0-8645-afca1086690e.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.559Z"
+    },
+    {
+      "name": "LG 34WR55QK-B 34\" CURVED WQHD HAS 100Hz with USB Type-C (65W)",
+      "price": "19.599.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111927-LG-34WR55QK-B-34--CURVED-WQHD-HAS-100Hz-with-USB-Type-C--65W-",
+      "imageUrl": "https://www.neptun.mk/2025/03/05/Screenshot2025-03-05at12-53-4034UltraWideMonitor-34WR55QK-B.AUSLGUSA_a3cb2c23-d3dc-4d73-975f-e42c0383499a.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.559Z"
+    },
+    {
+      "name": "LG 32UR550K-B 32\" UHD VA HAS 60Hz",
+      "price": "19.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111929-LG-32UR550K-B-32--UHD-VA-HAS-60Hz",
+      "imageUrl": "https://www.neptun.mk/2025/03/05/Screenshot2025-03-05at13-48-4831.5UltraFine4KHDRmonitor-32UR550K-BLGHK_e51e0355-a3b8-47d4-bf26-edc12f1263bf.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.559Z"
+    },
+    {
+      "name": "LG 34WP65CP-B 34\" CURVED WQHD HAS 160Hz + Speakers",
+      "price": "19.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111928-LG-34WP65CP-B-34--CURVED-WQHD-HAS-160Hz---Speakers",
+      "imageUrl": "https://www.neptun.mk/2025/03/05/Screenshot2025-03-05at13-07-1334CurvedUltraWideMonitorLGUK_d02e535f-f129-4a84-9685-a4b0ef5ca1d8.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.559Z"
+    },
+    {
+      "name": "SAMSUNG 32\" LS32D701EAUXEN VA UHD 60Hz",
+      "price": "19.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-32--LS32D701EAUXEN-FLAT-60Hz-VA-UHD",
+      "imageUrl": "https://www.neptun.mk/2024/11/27/32s701_9e086123-09d6-45d3-9fdc-6776ddce0283.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:29:57.559Z"
+    },
+    {
+      "name": "AOC GAMING 32\" AGON 325QZN/EU VA QHD HAS 240Hz",
+      "price": "20.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/AOC-GAMING-32--AGON-325QZN-EU-VA-QHD-HAS-240Hz",
+      "imageUrl": "https://www.neptun.mk/2025/01/28/image-Photoroom10_a7f72ba8-8370-40b5-8c84-6c0565c136c1.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.625Z"
+    },
+    {
+      "name": "DELL Alienware GAMING 27\" AW2724HF IPS FHD HAS 360Hz",
+      "price": "22.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111631-DELL-Alienware-GAMING-27--AW2724HF-IPS-FHD-HAS-360Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom28_bcfe8d9f-7ccd-43e7-82f2-9e01b8a621e5.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.625Z"
+    },
+    {
+      "name": "Монитор DELL 27\" P2723DE QHD USB-C, 350cd/m2, 8ms",
+      "price": "22.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-27--P2723DE-QHD-USB-C",
+      "imageUrl": "https://www.neptun.mk/2023/12/05/MONITORDELL27P2723DEQHDUSB-C_1d2c9bfd-c7ea-427f-8a2c-da6a497b8169.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "SAMSUNG LS27BG650EUXEN Curved 240Hz VA WQHD",
+      "price": "23.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-LS27BG650EUXEN-Curved-240Hz-VA-WQHD",
+      "imageUrl": "https://www.neptun.mk/2024/06/05/LS27BG650EUXEN_e6c4cda3-f693-4ab5-a134-92d303678db0.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "SAMSUNG GAMING 32\" LS32BG650EUXEN Odyssey G65B Curved 240Hz VA WQHD",
+      "price": "25.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-32--LS32BG650EUXEN-Odyssey-G65B-Curved-240Hz-VA-WQHD",
+      "imageUrl": "https://www.neptun.mk/2024/10/04/LS32BG650EUXEN_3bdd2e3f-3631-4b95-98c8-6f24168b5a1c.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "DELL Alienware GAMING 27\" AW2724DM IPS QHD HAS 180Hz",
+      "price": "26.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111630-DELL-Alienware-GAMING-27--AW2724DM-IPS-QHD-HAS-180Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom27_1ca19195-d553-46ec-95df-b0db42883aec.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "LG GAMING 27\" 27GR93U-B 27\" UHD IPS HAS 144Hz",
+      "price": "27.599.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111930-LG-GAMING-27--27GR93U-B-27--UHD-IPS-HAS-144Hz-",
+      "imageUrl": "https://www.neptun.mk/2025/03/05/Screenshot2025-03-05at14-11-0127UltraGearUHDGamingMonitorwith144HzRefreshRate-27GR93U-BLGHK_04b2235b-492a-45dd-b8a5-75895122c030.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "SAMSUNG 34\" LS34C650TAUXEN Curved 100Hz VA UWQHD",
+      "price": "30.799.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-34--LS34C650TAUXEN-Curved-100Hz-VA-UWQHD",
+      "imageUrl": "https://www.neptun.mk/2024/11/27/34vf6_87d1b388-b8dc-4241-b080-c0a168f94510.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "DELL 27\" U2724DE IPS QHD HAS 120Hz",
+      "price": "30.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111628-DELL-27--U2724DE-IPS-QHD-HAS-120Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/13/image-Photoroom25_bd6972c1-dc89-490b-9d45-19b3c61ba1d0.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "Монитор DELL Alienware 24.5\"(62.2cm) AW2524HF, FHD, 500Hz, 1ms",
+      "price": "32.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-Alienware-25--AW2524HF-FHD-500Hz",
+      "imageUrl": "https://www.neptun.mk/2024/03/29/Dell_3685b004-4407-430d-9adf-e67f48a88acb.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "Monitor DELL Alienware 27\" AW2723DF QHD 280Hz, HDMI, DP, USB, Headphone",
+      "price": "37.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/DELL-Alienware-27--AW2723DF-QHD-280Hz",
+      "imageUrl": "https://www.neptun.mk/2023/10/12/Dell_8f1185f2-3ec9-45cd-9066-71c7e735f164.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "LG 32GQ850-B QHD Nano 240HZ",
+      "price": "37.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-32GQ850-B-QHD-Nano-240HZ",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/32nanoqhd240hz_0a0fd968-8c07-4270-8d37-779d502ecb4b.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "LG 27GS95QE-B OLED 240Hz",
+      "price": "49.499.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-27GS95QE-B-OLED-240Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/21/lg27240hzoled_266bd1bf-eea6-4912-875e-962c85ad0b51.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "LG 34GS95QE-B OLED 240Hz",
+      "price": "59.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-34GS95QE-B-OLED-240Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/lg_34_240hz_oled.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.626Z"
+    },
+    {
+      "name": "SAMSUNG 32\" LS32DG802SUXDU Odyssey G8 FLAT 240Hz QD-OLED UHD",
+      "price": "66.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/SAMSUNG-32--LS32DG802SUXDU-Odyssey-G8-FLAT-240Hz-QD-OLED-UHD",
+      "imageUrl": "https://www.neptun.mk/2024/10/04/LS32DG802SUXDU_f9e4a50e-0cd5-43cc-a1e8-d65f945e3770.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.627Z"
+    },
+    {
+      "name": "DELL Alienware GAMING 32\" AW3225QF QD OLED HAS 240Hz",
+      "price": "69.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/84111632-DELL-Alienware-GAMING-32--AW3225QF-QD-OLED-HAS-240Hz",
+      "imageUrl": "https://www.neptun.mk/2025/02/14/image-Photoroom29_dbf7c60a-4e55-4cde-9019-68e866a00e8d.png?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.627Z"
+    },
+    {
+      "name": "LG 32GS95UE-B OLED 240Hz/480Hz",
+      "price": "79.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-32GS95UE-B-OLED-240Hz-480Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/lgdual32incholed_8bdfa639-97e5-474f-b417-6245800def82.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.627Z"
+    },
+    {
+      "name": "LG 39GS95QE-B OLED 240Hz",
+      "price": "84.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-39GS95QE-B-OLED-240Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/lg39oled_096757b3-ba0b-4c39-9392-e03dfc20c495.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.627Z"
+    },
+    {
+      "name": "LG 45GS95QE-B OLED 240Hz",
+      "price": "89.999.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/LG-45GS95QE-B-OLED-240Hz",
+      "imageUrl": "https://www.neptun.mk/2024/12/06/lg45incholed_ee6de6ff-0d89-4aea-a482-2e33b8a0f5b7.jpg?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.627Z"
+    },
+    {
+      "name": "Монитор Apple Studio Display - Standard Glass - Tilt-Adjustable Stand, 27\"(68.5cm) 5K Retina, 60Hz",
+      "price": "106.299.,00 den.",
+      "url": "https://www.neptun.mk/categories/monitori1/Apple-Studio-Display---Standard-Glass---Tilt-Adjustable-Stand",
+      "imageUrl": "https://www.neptun.mk/2024/01/26/Applemonitor_d9436e65-3eb8-48ad-b06a-0c8b8b9615fa.JPG?width=192",
+      "stock": "In Stock",
+      "category": "monitori1",
+      "dateScraped": "2025-03-09T02:30:07.627Z"
+    }
+  ]
+}

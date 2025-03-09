@@ -1,0 +1,1627 @@
+{
+  "totalProducts": 180,
+  "lastScrapedCategory": "https://www.anhoch.com/categories/monitori/products",
+  "scrapeDate": "2025-03-09T02:32:33.008Z",
+  "products": [
+    {
+      "name": "Monitor 24\" Dell P2425H FullHD IPS VGA/HDMI/DP/4xUSB3.2/USB-C/HAS/Tilt/Swivel",
+      "price": "9.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-p2425h-fullhd-ips-vgahdmidp4xusb32usbchastiltswivel-7139",
+      "imageUrl": "https://www.anhoch.com/storage/media/p2425h.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 24\" Samsung LS24D300GAUXEN S30GD 100Hz IPS Panel, FHD, HDMI, VGA, 5ms",
+      "price": "5.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-samsung-ls24d300gauxen-s30gd-100hz-ips-panel-fhd-hdmi-vga-5ms-4035",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls24d300gauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27D300GAUXEN S30GD 100Hz IPS Panel, FHD, HDMI, VGA, 5ms",
+      "price": "6.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27d300gauxen-s30gd-100hz-ips-panel-fhd-hdmi-vga-5ms-4036",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls24d300gauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27GR75Q-B Gaming IPS 165Hz 1ms, QHD, HDMIx2/DP G-sync, Freesync, HDR10",
+      "price": "14.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27gr75qb-gaming-ips-165hz-1ms-qhd-hdmix2dp-gsync-freesync-hdr10-0980",
+      "imageUrl": "https://www.anhoch.com/storage/media/27gr75qb.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 32\" LG 32SR50F-W MyView Smart IPS Full HD 1920 x 1080, HDMIx2, 8ms,webOS,Speakers,White",
+      "price": "13.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-lg-32sr50fw-myview-smart-ips-full-hd-1920-x-1080-hdmix2-8mswebosspeakerswhite-2275",
+      "imageUrl": "https://www.anhoch.com/storage/media/599882275.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 32\" LG 32GS60QC-B Gaming VA Curved 180Hz, QHD, HDMI, DP, Freesync",
+      "price": "14.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-lg-32gs60qcb-gaming-va-curved-180hz-qhd-hdmi-dp-freesync-3812",
+      "imageUrl": "https://www.anhoch.com/storage/media/32gs60qc-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 24\" Dell SE2422H FullHD 75Hz VGA/HDMI",
+      "price": "5.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-se2422h-fullhd-75hz-vgahdmi-9427",
+      "imageUrl": "https://www.anhoch.com/storage/media/se2422h_1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 27\" Xiaomi Mi A27i FullHD 100Hz IPS HDMI/DP Super Slim",
+      "price": "5.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-xiaomi-mi-a27i-fullhd-100hz-ips-hdmidp-super-slim-1809",
+      "imageUrl": "https://www.anhoch.com/storage/media/ela5345eu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 25\" Samsung LS25BG400EUXEN Odyssey G4 Gaming 240Hz, 1ms, FHD, HDMI, DP, FreeSync",
+      "price": "10.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-25-samsung-ls25bg400euxen-odyssey-g4-gaming-240hz-1ms-fhd-hdmi-dp-freesync-8494",
+      "imageUrl": "https://www.anhoch.com/storage/media/6gINOmhwfan6XXAnWAtPkKwhgGDxsswDc4HsHto4.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.961Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27GS50F-B UltraGear Gaming VA FHD 180Hz 1ms 2xHDMI/DP/HDR/AMD FreeSync / Tilt",
+      "price": "8.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27gs50fb-ultragear-gaming-va-fhd-180hz-1ms-2xhdmidphdramd-freesync--tilt-5951",
+      "imageUrl": "https://www.anhoch.com/storage/media/27gs50f-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27BG400EUXEN Odyssey G4 Gaming 240Hz, 1ms, FHD, HDMI, DP, FreeSync",
+      "price": "11.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27bg400euxen-odyssey-g4-gaming-240hz-1ms-fhd-hdmi-dp-freesync-8495",
+      "imageUrl": "https://www.anhoch.com/storage/media/6gINOmhwfan6XXAnWAtPkKwhgGDxsswDc4HsHto4.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 27\" Dell P2725H FullHD IPS 100Hz VGA/DP/HDMI/USB-C/4xUSB/Height Adjustment",
+      "price": "11.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-p2725h-fullhd-ips-100hz-vgadphdmiusbc4xusbheight-adjustment-6980",
+      "imageUrl": "https://www.anhoch.com/storage/media/17092024163103download.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 27\" MSI G27C4X LED Gaming 1ms, 250Hz, FHD, HDMIx2, DP, Curved, Frameless",
+      "price": "10.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-g27c4x-led-gaming-1ms-250hz-fhd-hdmix2-dp-curved-frameless-8506",
+      "imageUrl": "https://www.anhoch.com/storage/media/g27c4x.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 32\" LG 32MR50C-B VA Curved 100Hz, FHD, HDMI, VGA, Freesync",
+      "price": "8.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-lg-32mr50cb-va-curved-100hz-fhd-hdmi-vga-freesync-2604",
+      "imageUrl": "https://www.anhoch.com/storage/media/32mr50c-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung ViewFinity S7 LS27D700EAUXEN IPS UHD 3840x2160,HDMI,DP,HDR10, HAS",
+      "price": "16.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-viewfinity-s7-ls27d700eauxen-ips-uhd-3840x2160hdmidphdr10-has-3376",
+      "imageUrl": "https://www.anhoch.com/storage/media/6gINOmhwfan6XXAnWAtPkKwhgGDxsswDc4HsHto4.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 24\" Samsung LS24D360GAUXEN Curved 1800R 100Hz VA Panel Freesync, FHD, HDMI, VGA, 4ms",
+      "price": "5.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-samsung-ls24d360gauxen-curved-1800r-100hz-va-panel-freesync-fhd-hdmi-vga-4ms-3377",
+      "imageUrl": "https://www.anhoch.com/storage/media/25102024122348download(2).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27DG500EUXEN Odyssey G50D IPS 180Hz,1ms, WQHD, HDMI, DP, HDR400,FreeSync, HAS",
+      "price": "14.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27dg500euxen-odyssey-g50d-ips-180hz1ms-wqhd-hdmi-dp-hdr400freesync-has-2610",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls27dg500euxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 27\" AOC 27B2AM VA, 75Hz, FHD, HDMI, VGA, Frameless, Speakers",
+      "price": "7.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-aoc-27b2am-va-75hz-fhd-hdmi-vga-frameless-speakers-1336",
+      "imageUrl": "https://www.anhoch.com/storage/media/24b2xdm.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 24\" BenQ EX240N MOBIUZ Gaming 1ms, 165Hz, FHD, HDRi, HDMI, DP, Speakers",
+      "price": "7.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-benq-ex240n-mobiuz-gaming-1ms-165hz-fhd-hdri-hdmi-dp-speakers-0571",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 24\" MSI G2412F eSports Gaming IPS/1ms/180Hz/FHD/HDMIx2/DP/Tilt/Frameless",
+      "price": "7.380,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-msi-g2412f-esports-gaming-ips1ms180hzfhdhdmix2dptiltframeless-1610",
+      "imageUrl": "https://www.anhoch.com/storage/media/g2412f.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:30:57.962Z"
+    },
+    {
+      "name": "Monitor 24\" LG 24BK45HP-B IPS 5ms, FHD, HDMI, VGA, Tilt",
+      "price": "5.680,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lg-24bk45hpb-ips-5ms-fhd-hdmi-vga-tilt-0332",
+      "imageUrl": "https://www.anhoch.com/storage/media/24bk45hpb.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27CG552EUXEN Odyssey G55C Gaming Curved,QHD,HDMI,DP,1ms,165Hz,FreeSync",
+      "price": "11.880,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27cg552euxen-odyssey-g55c-gaming-curvedqhdhdmidp1ms165hzfreesync-1615",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls32cg552euxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" Dell SE2725H FullHD VA 75Hz DP/HDMI/Tilt/Vesa",
+      "price": "7.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-se2725h-fullhd-va-75hz-dphdmitiltvesa-7539",
+      "imageUrl": "https://www.anhoch.com/storage/media/se2725h.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" Dell G2725D Gaming QHD IPS 180Hz 1ms 2xHDMI/1xDP/AMD FreeSync",
+      "price": "13.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-g2725d-gaming-qhd-ips-180hz-1ms-2xhdmi1xdpamd-freesync-7541",
+      "imageUrl": "https://www.anhoch.com/storage/media/748075-product-2-i-6386594244057.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" Gigabyte G27FC A LED Gaming 1ms, 170Hz, FHD, 8bits, 2xHDMI/DP, Curved, Height/Tilt",
+      "price": "8.680,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-gigabyte-g27fc-a-led-gaming-1ms-170hz-fhd-8bits-2xhdmidp-curved-heighttilt-2152",
+      "imageUrl": "https://www.anhoch.com/storage/media/g27fcaek_3.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 24\" BenQ XL2411K Zowie LED Gaming 1ms Wide FullHD,144Hz,2xHDMI,DP,Height Adj,with DyAc™",
+      "price": "10.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-benq-xl2411k-zowie-led-gaming-1ms-wide-fullhd144hz2xhdmidpheight-adjwith-dyac%E2%84%A2-0874",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 24\" Xiaomi A24i Full HD IPS 100Hz HDMI/DP Super Slim",
+      "price": "5.330,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-xiaomi-a24i-full-hd-ips-100hz-hdmidp-super-slim-6267",
+      "imageUrl": "https://www.anhoch.com/themes/storefront/public/images/image-placeholder.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 34\" Xiaomi Mi Curved VA Gaming G34WQi WQHD 180Hz 1ms 2xDP/2xHDMI Freesync Premium",
+      "price": "18.165,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-xiaomi-mi-curved-va-gaming-g34wqi-wqhd-180hz-1ms-2xdp2xhdmi-freesync-premium-6268",
+      "imageUrl": "https://www.anhoch.com/themes/storefront/public/images/image-placeholder.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" MSI MAG 275F eSports Gaming IPS/1ms/180Hz/FHD/HDMI/DP/Tilt/Frameless",
+      "price": "8.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-mag-275f-esports-gaming-ips1ms180hzfhdhdmidptiltframeless-5767",
+      "imageUrl": "https://www.anhoch.com/storage/media/mag275f.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 24\" MSI PRO MP242A IPS/100Hz/ FHD/HDMI/DP/VGA/Speakers/Tilt/Frameless/VESA",
+      "price": "4.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-msi-pro-mp242a-ips100hz-fhdhdmidpvgaspeakerstiltframelessvesa-5768",
+      "imageUrl": "https://www.anhoch.com/storage/media/promp242a-2.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" MSI PRO MP275 E2 IPS/120Hz/1ms/FHD/HDMI/DP/VGA/Speakers/Frameless/VESA",
+      "price": "7.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-pro-mp275-e2-ips120hz1msfhdhdmidpvgaspeakersframelessvesa-5769",
+      "imageUrl": "https://www.anhoch.com/storage/media/promp275e2-2.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 34\" MSI MAG 342CQR E2 Gaming VA/180Hz/1ms/3440x1440 UWQHD/21:9/Curved 1500R/HDMIx2/DP/Tilt",
+      "price": "21.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-msi-mag-342cqr-e2-gaming-va180hz1ms3440x1440-uwqhd219curved-1500rhdmix2dptilt-5771",
+      "imageUrl": "https://www.anhoch.com/storage/media/mag342cqre2.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27GQ50F-B UltraGear Gaming VA FHD 165Hz 1ms 2xHDMI/DP/FreeSync Premium",
+      "price": "8.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27gq50fb-ultragear-gaming-va-fhd-165hz-1ms-2xhdmidpfreesync-premium-3694",
+      "imageUrl": "https://www.anhoch.com/storage/media/27gq50f-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27SR50F-W MyView Smart IPS FHD 1920x1080, 2xHDMI, 2xUSB, 5ms,webOS,Speakers,White",
+      "price": "10.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27sr50fw-myview-smart-ips-fhd-1920x1080-2xhdmi-2xusb-5mswebosspeakerswhite-3695",
+      "imageUrl": "https://www.anhoch.com/storage/media/599882275.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" Acer K272HLEbid VA,4ms, FHD, VGA, DVI, HDMI,Tilt,Zero Frame",
+      "price": "6.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-acer-k272hlebid-va4ms-fhd-vga-dvi-hdmitiltzero-frame-7316",
+      "imageUrl": "https://www.anhoch.com/storage/media/um.hx3ee.e04.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" Acer Nitro Gaming QG270H3bix VA 100Hz,1ms, FHD, VGA, HDMI,Zero Frame",
+      "price": "7.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-acer-nitro-gaming-qg270h3bix-va-100hz1ms-fhd-vga-hdmizero-frame-2120",
+      "imageUrl": "https://www.anhoch.com/storage/media/um.hq0ee.301.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27GS60QC-B Gaming VA QHD 1ms 180Hz Freesync 250cd DP HDMI",
+      "price": "12.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27gs60qcb-gaming-va-qhd-1ms-180hz-freesync-250cd-dp-hdmi-5793",
+      "imageUrl": "https://www.anhoch.com/storage/media/27gs60qc-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27GS85Q-B Gaming Nano IPS QHD 1ms 200Hz 400cd 3xUSB DP HDMI pivot",
+      "price": "16.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27gs85qb-gaming-nano-ips-qhd-1ms-200hz-400cd-3xusb-dp-hdmi-pivot-5794",
+      "imageUrl": "https://www.anhoch.com/storage/media/27gs85q-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27US500-W IPS, UHD 3840x2160, HDR10, 2xHDMI, DP, White",
+      "price": "13.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27us500w-ips-uhd-3840x2160-hdr10-2xhdmi-dp-white-5795",
+      "imageUrl": "https://www.anhoch.com/storage/media/27us500-w.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 27\" Benq GW2790 Gaming IPS 1920x1080 FHD, 100Hz, 2xHDMI, Display port,Speakers, Black",
+      "price": "6.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-benq-gw2790-gaming-ips-1920x1080-fhd-100hz-2xhdmi-display-portspeakers-black-1943",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:04.400Z"
+    },
+    {
+      "name": "Monitor 24\" LG 24MP400-B Gaming IPS 75Hz, 5ms, FHD, HDMI, VGA, FreeSync, Tilt",
+      "price": "4.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lg-24mp400b-gaming-ips-75hz-5ms-fhd-hdmi-vga-freesync-tilt-7595",
+      "imageUrl": "https://www.anhoch.com/storage/media/27mp400b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 24\" Benq GW2490 IPS Gaming 1920x1080 FHD, 100Hz, 2xHDMI, Display port,Speakers, Black",
+      "price": "5.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-benq-gw2490-ips-gaming-1920x1080-fhd-100hz-2xhdmi-display-portspeakers-black-1947",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 25\" BenQ XL2566K Zowie LED Gaming 1ms Wide 360Hz,USBx2,HDMIx2,DP,Height Adjustment",
+      "price": "31.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-25-benq-xl2566k-zowie-led-gaming-1ms-wide-360hzusbx2hdmix2dpheight-adjustment-8367",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 27\" BenQ EX2710Q MOBIUZ Gaming IPS 1ms, 165Hz, QHD, HDRi",
+      "price": "16.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-benq-ex2710q-mobiuz-gaming-ips-1ms-165hz-qhd-hdri-4016",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 24\" Dell E2424HS FullHD VA VGA/HDMI/DP/Speakers",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-e2424hs-fullhd-va-vgahdmidpspeakers-1659",
+      "imageUrl": "https://www.anhoch.com/storage/media/e2422hn_1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32C390EAUXEN Curved 1000R VA Panel, Full HD 75Hz,2xHDMI,DP,4ms,Speakers",
+      "price": "13.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32c390eauxen-curved-1000r-va-panel-full-hd-75hz2xhdmidp4msspeakers-8895",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls27c390eauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32CG552EUXEN Odyssey G55C Gaming Curved,QHD,HDMI,DP,1ms,165Hz,FreeSync",
+      "price": "15.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32cg552euxen-odyssey-g55c-gaming-curvedqhdhdmidp1ms165hzfreesync-1206",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls32cg552euxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 27\" BenQ PD2705U IPS Designer 3840x2160 4K UHD, HDMI,DP,3xUSB,USB-C,Speakers, KVM Switch",
+      "price": "23.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-benq-pd2705u-ips-designer-3840x2160-4k-uhd-hdmidp3xusbusbcspeakers-kvm-switch-0264",
+      "imageUrl": "https://www.anhoch.com/storage/media/pd3205u.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27C360EAUXEN Curved 1800R 75Hz VA Panel, Full HD 1920x1080, VGA, HDMI, 4ms",
+      "price": "6.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27c360eauxen-curved-1800r-75hz-va-panel-full-hd-1920x1080-vga-hdmi-4ms-9285",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls27c360eauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 27\" Dell E2725H FullHD VA 75Hz VGA/DP/Tilt/Vesa",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-e2725h-fullhd-va-75hz-vgadptiltvesa-7540",
+      "imageUrl": "https://www.anhoch.com/storage/media/monitor-dell-eseries-e2725h-bk-g.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 25\" Lenovo Legion R25f-30 FHD Gaming VA 0.5ms 280Hz/2xHDMI/DP/Height Adjustable/FreeSync",
+      "price": "11.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-25-lenovo-legion-r25f30-fhd-gaming-va-05ms-280hz2xhdmidpheight-adjustablefreesync-7542",
+      "imageUrl": "https://www.anhoch.com/storage/media/67b8gacbeu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 24\" AOC 24B2XHEU IPS FHD, 75Hz, VGA,HDMI, Frameless",
+      "price": "5.080,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-aoc-24b2xheu-ips-fhd-75hz-vgahdmi-frameless-9934",
+      "imageUrl": "https://www.anhoch.com/storage/media/24b2xheu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung ViewFinity S7 LS32D701EAUXEN VA UHD 3840x2160,HDMI,DP,HDR10, HAS, White",
+      "price": "19.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-viewfinity-s7-ls32d701eauxen-va-uhd-3840x2160hdmidphdr10-has-white-3776",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls32d701eauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 35\" LG 35WN75CP-B UW-QHD VA Curved 3440x1440 5ms, 100Hz, HDR10, 2xHDMI/DP/USB/Speakers",
+      "price": "24.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-35-lg-35wn75cpb-uwqhd-va-curved-3440x1440-5ms-100hz-hdr10-2xhdmidpusbspeakers-0981",
+      "imageUrl": "https://www.anhoch.com/storage/media/35wn75cp-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 32\" LG 32UR550-B LED VA 3840x2160 4K UHD 2xHDMI/DP/Speakers/HDR 10/FreeSync",
+      "price": "19.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-lg-32ur550b-led-va-3840x2160-4k-uhd-2xhdmidpspeakershdr-10freesync-3813",
+      "imageUrl": "https://www.anhoch.com/storage/media/32ur550-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 27\" MSI Modern MD271UL IPS, 60Hz, UHD 4K 3840x2160, DP/Type-C/2xHDMI 65W PD Tilt",
+      "price": "15.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-modern-md271ul-ips-60hz-uhd-4k-3840x2160-dptypec2xhdmi-65w-pd-tilt-9759",
+      "imageUrl": "https://www.anhoch.com/storage/media/md271ul.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 27\" MSI PRO MP275 IPS, 100Hz, 1ms, FHD, HDMI, VGA, Speakers, Frameless",
+      "price": "6.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-pro-mp275-ips-100hz-1ms-fhd-hdmi-vga-speakers-frameless-1296",
+      "imageUrl": "https://www.anhoch.com/storage/media/promp275.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 24\" LG 24GQ50F-B Gaming VA 165Hz 1ms, FHD, HDMI/DP/Freesync Premium",
+      "price": "7.380,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lg-24gq50fb-gaming-va-165hz-1ms-fhd-hdmidpfreesync-premium-2603",
+      "imageUrl": "https://www.anhoch.com/storage/media/24gq50f-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32DG500EUXEN Odyssey G50D IPS 180Hz,1ms,QHD,HDMI,DP,HDR400,FreeSync, HAS",
+      "price": "17.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32dg500euxen-odyssey-g50d-ips-180hz1msqhdhdmidphdr400freesync-has-3375",
+      "imageUrl": "https://www.anhoch.com/storage/media/25102024112858download.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 29\" LG 29BN650-B IPS, 2560 x 1080 UltraWide FHD, 2x HDMI,DP, Speakers, FreeSync",
+      "price": "13.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-29-lg-29bn650b-ips-2560-x-1080-ultrawide-fhd-2x-hdmidp-speakers-freesync-1841",
+      "imageUrl": "https://www.anhoch.com/storage/media/29bn650b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:31:54.961Z"
+    },
+    {
+      "name": "Monitor 27\" AOC Q27P2Q IPS 2560×1440, VGA,HDMI, DP, 4xUSB, Speakers",
+      "price": "11.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-aoc-q27p2q-ips-25601440-vgahdmi-dp-4xusb-speakers-1337",
+      "imageUrl": "https://www.anhoch.com/storage/media/q27p2q.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 27\" Gigabyte GS27FC Curved 1500R VA LED Gaming 1ms/180Hz/FHD/2xHDMI/DP/Tilt/VESA",
+      "price": "8.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-gigabyte-gs27fc-curved-1500r-va-led-gaming-1ms180hzfhd2xhdmidptiltvesa-5737",
+      "imageUrl": "https://www.anhoch.com/storage/media/gs27fcek.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 24\" Dell E2425HS FullHD VA 75Hz VGA/HDMI/DP/Speakers",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-e2425hs-fullhd-va-75hz-vgahdmidpspeakers-7555",
+      "imageUrl": "https://www.anhoch.com/storage/media/e2425hs.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 34\" MSI Modern MD342CQP 120Hz/3440x1440 UWQHD, 2xHDMI/DP/Type-C/98W PD/USB/Curved/21:9/HAS",
+      "price": "19.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-msi-modern-md342cqp-120hz3440x1440-uwqhd-2xhdmidptypec98w-pdusbcurved219has-5770",
+      "imageUrl": "https://www.anhoch.com/storage/media/md342cqp-1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 24\" LG 24GS60F-B Gaming IPS FullHD 1ms 180Hz 300cd DP 2xHDMI,Freesync, Borderless",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lg-24gs60fb-gaming-ips-fullhd-1ms-180hz-300cd-dp-2xhdmifreesync-borderless-5792",
+      "imageUrl": "https://www.anhoch.com/storage/media/24gs60f-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 25\" Dell AW2524HF Alienware Gaming FullHD/FastIPS/1ms/500Hz 5xUSB/2xHDMI/DP/Audio/VESA/Lunar",
+      "price": "32.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-25-dell-aw2524hf-alienware-gaming-fullhdfastips1ms500hz-5xusb2xhdmidpaudiovesalunar-7189",
+      "imageUrl": "https://www.anhoch.com/storage/media/monitor-aw2524hf-black-gallery-1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 27\" Benq GL2780 1ms, 75Hz, FHD, VGA, DVI, HDMI, Display port, Speakers, Black",
+      "price": "6.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-benq-gl2780-1ms-75hz-fhd-vga-dvi-hdmi-display-port-speakers-black-9248",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 45\" LG 45GS95QE-B Gaming OLED Curved WQHD 240Hz 0.03ms HDMI/DP/HDR/G-Sync/Freesync",
+      "price": "74.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-45-lg-45gs95qeb-gaming-oled-curved-wqhd-240hz-003ms-hdmidphdrgsyncfreesync-5947",
+      "imageUrl": "https://www.anhoch.com/storage/media/45gs95qe-b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 24\" LG 24GN60R-B Gaming IPS 144Hz,1ms, FHD, HDMI, DP, HDR10, Freesync Premium",
+      "price": "7.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lg-24gn60rb-gaming-ips-144hz1ms-fhd-hdmi-dp-hdr10-freesync-premium-1848",
+      "imageUrl": "https://www.anhoch.com/storage/media/24gn600b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 27\" Acer Nitro VG270BMIIX Gaming IPS 1ms, 75Hz, FHD, HDMI, Spk, Tilt",
+      "price": "7.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-acer-nitro-vg270bmiix-gaming-ips-1ms-75hz-fhd-hdmi-spk-tilt-2351",
+      "imageUrl": "https://www.anhoch.com/storage/media/vg270sb.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 34\" Samsung LS34C652UAUXEN 100Hz, UWQHD 3440x1440, HDMI, DP, USB-C, Lan, Speakers",
+      "price": "28.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-samsung-ls34c652uauxen-100hz-uwqhd-3440x1440-hdmi-dp-usbc-lan-speakers-0134",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls34c652uauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 24\" Acer SA242YEbi FHD ZeroFrame IPS 100Hz 1ms(VRB) 250nits VGA HDMI FreeSync",
+      "price": "5.180,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-acer-sa242yebi-fhd-zeroframe-ips-100hz-1msvrb-250nits-vga-hdmi-freesync-7340",
+      "imageUrl": "https://www.anhoch.com/storage/media/um.qs2ee.e01.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 27\" Dell AW2724DM Alienware Gaming QHD FastIPS 180Hz 1ms AMD FreeSync HDMI/2xDP/3xUSB",
+      "price": "25.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-aw2724dm-alienware-gaming-qhd-fastips-180hz-1ms-amd-freesync-hdmi2xdp3xusb-1899",
+      "imageUrl": "https://www.anhoch.com/storage/media/aw2724dm.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 24\" Samsung LS24DG302EUXEN Odyssey G3 G30D 180Hz, 1ms, FHD, HDMI,DP, HAS, FreeSync",
+      "price": "7.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-samsung-ls24dg302euxen-odyssey-g3-g30d-180hz-1ms-fhd-hdmidp-has-freesync-2722",
+      "imageUrl": "https://www.anhoch.com/storage/media/lf24g35tfwuxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27C390EAUXEN Curved 1000R VA Panel, Full HD 75Hz,2xHDMI,DP,4ms,Speakers",
+      "price": "9.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27c390eauxen-curved-1000r-va-panel-full-hd-75hz2xhdmidp4msspeakers-8894",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls27c390eauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung ViewFinity S7 LS32D700EAUXEN VA UHD 3840x2160,HDMI,DP,HDR10, HAS",
+      "price": "18.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-viewfinity-s7-ls32d700eauxen-va-uhd-3840x2160hdmidphdr10-has-3775",
+      "imageUrl": "https://www.anhoch.com/storage/media/overlay_2e202b226edb55cf3d84cda686c73c6e.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 24\" Samsung LF24T450FQRXEN IPS 75Hz, FHD, 2xHDMI, DP, 2xUSB, HAS Pivot, SuperSlim",
+      "price": "6.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-samsung-lf24t450fqrxen-ips-75hz-fhd-2xhdmi-dp-2xusb-has-pivot-superslim-6389",
+      "imageUrl": "https://www.anhoch.com/storage/media/lf24t450fquxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 27\" Dell U2724DE UltraSharp QHD 2560x1440 IPS120Hz HDMI/2xDP/USB-C/3xUSB/Adj.Stand/RJ45",
+      "price": "30.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-u2724de-ultrasharp-qhd-2560x1440-ips120hz-hdmi2xdpusbc3xusbadjstandrj45-6984",
+      "imageUrl": "https://www.anhoch.com/storage/media/17092024165102download(6).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 29\" LG 29WP500-B IPS, 2560 x 1080 UltraWide FHD, 2x HDMI, 75Hz, 5ms",
+      "price": "10.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-29-lg-29wp500b-ips-2560-x-1080-ultrawide-fhd-2x-hdmi-75hz-5ms-7227",
+      "imageUrl": "https://www.anhoch.com/storage/media/29wp500.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27D360GAUXEN Curved 1800R 100Hz VA Panel Freesync, FHD, HDMI, VGA, 4ms",
+      "price": "6.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27d360gauxen-curved-1800r-100hz-va-panel-freesync-fhd-hdmi-vga-4ms-3378",
+      "imageUrl": "https://www.anhoch.com/storage/media/25102024122927download(3).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:01.578Z"
+    },
+    {
+      "name": "Monitor 27\" Acer Nitro XF270S3biphx VA 180Hz, FHD, 1ms, HDMI,DP,Height adj.,Freesync",
+      "price": "10.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-acer-nitro-xf270s3biphx-va-180hz-fhd-1ms-hdmidpheight-adjfreesync-2121",
+      "imageUrl": "https://www.anhoch.com/storage/media/um.hx0ee.301.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 24\" Acer Nitro QG241 FHD ZeroFrame VA 1ms VGA,2xHDMI FreeSync",
+      "price": "5.180,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-acer-nitro-qg241-fhd-zeroframe-va-1ms-vga2xhdmi-freesync-7339",
+      "imageUrl": "https://www.anhoch.com/storage/media/um.qq1ee.001.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27D366GAUXEN Curved 1800R 100Hz VA Panel Freesync, FHD, HDMI, VGA, 4ms",
+      "price": "6.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27d366gauxen-curved-1800r-100hz-va-panel-freesync-fhd-hdmi-vga-4ms-3773",
+      "imageUrl": "https://www.anhoch.com/storage/media/25102024122927download(3).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32DM702UUXDU SMART M7 4K UHD, HDMIx2, USBx3, WiFi, BT, Tizen, Speakers, Remote",
+      "price": "17.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32dm702uuxdu-smart-m7-4k-uhd-hdmix2-usbx3-wifi-bt-tizen-speakers-remote-3778",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls43dm702uuxdu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 24\" Acer Vero KA242YEbi IPS Gaming 100Hz, FHD, VGA, HDMI, Zero Frame",
+      "price": "5.680,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-acer-vero-ka242yebi-ips-gaming-100hz-fhd-vga-hdmi-zero-frame-6917",
+      "imageUrl": "https://www.anhoch.com/storage/media/um.qx2ee.e05.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 24\" Dell C2423H FHD IPS Video Conferencing Camera/Speakers DP/HDMI/4xUSB",
+      "price": "14.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-c2423h-fhd-ips-video-conferencing-cameraspeakers-dphdmi4xusb-1718",
+      "imageUrl": "https://www.anhoch.com/storage/media/c2723h.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 24\" Dell S2421H FullHD IPS 2xHDMI w/Speakers VESA",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-s2421h-fullhd-ips-2xhdmi-wspeakers-vesa-9169",
+      "imageUrl": "https://www.anhoch.com/storage/media/21f70bcee4e590f4c5a0b4abe1fcc033.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 25\" BenQ XL2546K Zowie LED Gaming 1ms Wide 240Hz,USBx3,HDMIx2,DVI Dual,DP,Height Adjustment",
+      "price": "23.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-25-benq-xl2546k-zowie-led-gaming-1ms-wide-240hzusbx3hdmix2dvi-dualdpheight-adjustment-3381",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 27\" Dell U2724D UltraSharp QHD 2560x1440 IPS120Hz HDMI/2xDP/USB-C/3xUSB/Adj.Stand",
+      "price": "23.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-u2724d-ultrasharp-qhd-2560x1440-ips120hz-hdmi2xdpusbc3xusbadjstand-6983",
+      "imageUrl": "https://www.anhoch.com/storage/media/17092024164546download(4).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 24\" Dell S2425HS FullHD 1920x1080/IPS/100Hz/2 xHDMI/Speakers",
+      "price": "8.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-s2425hs-fullhd-1920x1080ips100hz2-xhdmispeakers-5707",
+      "imageUrl": "https://www.anhoch.com/storage/media/17062024140159download.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 27\" MSI Modern MD272QXPW IPS,100Hz,2560 x 1440 WQHD,HDMI,DP,Type-C (PD 65W),HAS,KVM,Speakers",
+      "price": "13.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-modern-md272qxpw-ips100hz2560-x-1440-wqhdhdmidptypec-pd-65whaskvmspeakers-1585",
+      "imageUrl": "https://www.anhoch.com/storage/media/md272qxpw.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 43\" Samsung LS43DM702UUXDU SMART M7 4K UHD, HDMIx2, USBx3, WiFi, BT, Tizen, Speakers, Remote",
+      "price": "26.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-43-samsung-ls43dm702uuxdu-smart-m7-4k-uhd-hdmix2-usbx3-wifi-bt-tizen-speakers-remote-2877",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls43dm702uuxdu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 27\" MSI MAG 271QPX QD-OLED/360Hz/2560x1440 WQHD/16:9/HDR400/HDMIx2/DP/Type-C(15W PD)",
+      "price": "43.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-mag-271qpx-qdoled360hz2560x1440-wqhd169hdr400hdmix2dptypec15w-pd-5773",
+      "imageUrl": "https://www.anhoch.com/storage/media/mag271qpxqd-oled.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 27\" Dell S2722DC IPS QHD 2K 2560x1440 2xHDMI/USB-C/2xUSB/Speakers",
+      "price": "15.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-s2722dc-ips-qhd-2k-2560x1440-2xhdmiusbc2xusbspeakers-2378",
+      "imageUrl": "https://www.anhoch.com/storage/media/s2722dc-1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 25\" BenQ XL2540K Zowie LED Gaming 1ms Wide 240Hz,USBx3,HDMIx2,DVI Dual,DP,Height Adjustment",
+      "price": "17.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-25-benq-xl2540k-zowie-led-gaming-1ms-wide-240hzusbx3hdmix2dvi-dualdpheight-adjustment-4020",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 34\" Samsung LC34G55TWWPXEN Odyssey G5 Gaming Curved,WQHD,HDMI,DP,1ms,165Hz,FreeSync",
+      "price": "21.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-samsung-lc34g55twwpxen-odyssey-g5-gaming-curvedwqhdhdmidp1ms165hzfreesync-2724",
+      "imageUrl": "https://www.anhoch.com/storage/media/lc34g55twwuxen_1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32A600NWUXEN WQHD 2560x1440, HDMI,DP,3xUSB,5ms,SuperSlim,75Hz",
+      "price": "14.880,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32a600nwuxen-wqhd-2560x1440-hdmidp3xusb5mssuperslim75hz-9404",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls32a600uupxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 27\" Dell P2725HE FullHD IPS 100Hz DP/DP out/HDMI/USB-C/4xUSB/RJ-45/Height Adjustment",
+      "price": "13.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-p2725he-fullhd-ips-100hz-dpdp-outhdmiusbc4xusbrj45height-adjustment-7125",
+      "imageUrl": "https://www.anhoch.com/storage/media/17092024163103download.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 32\" AOC Q32P2 IPS QHD 2560x1440, 75Hz,2xHDMI,DP,5xUSB,Speakers",
+      "price": "14.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-aoc-q32p2-ips-qhd-2560x1440-75hz2xhdmidp5xusbspeakers-8660",
+      "imageUrl": "https://www.anhoch.com/storage/media/q32p2-01.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 27\" Gigabyte GS27FC Curved 1500R VA LED Gaming 1ms, 180Hz, FHD, 2xHDMI/DP, Tilt, VESA",
+      "price": "8.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-gigabyte-gs27fc-curved-1500r-va-led-gaming-1ms-180hz-fhd-2xhdmidp-tilt-vesa-3292",
+      "imageUrl": "https://www.anhoch.com/storage/media/gs27fcek.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:07.936Z"
+    },
+    {
+      "name": "Monitor 27\" Dell AW2723DF Alienware Gaming QHD IPS 280Hz 1ms AMD FreeSync 2xHDMI/DP/5xUSB/Audio",
+      "price": "34.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-aw2723df-alienware-gaming-qhd-ips-280hz-1ms-amd-freesync-2xhdmidp5xusbaudio-0973",
+      "imageUrl": "https://www.anhoch.com/storage/media/aw2723df.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27'' Samsung LS27DG702EUXDU Odyssey G7 G70D Gaming 4K 3840 x 2160 144Hz HDR10+",
+      "price": "26.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27dg702euxdu-odyssey-g7-g70d-gaming-4k-3840-x-2160-144hz-hdr10-plus-5942",
+      "imageUrl": "https://www.anhoch.com/storage/media/6gINOmhwfan6XXAnWAtPkKwhgGDxsswDc4HsHto4.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 24\" Dell U2424H UltraSharp FullHD IPS 120Hz DP/2xHDMI/TypeC/4xUSB/Height Adjustable",
+      "price": "13.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-u2424h-ultrasharp-fullhd-ips-120hz-dp2xhdmitypec4xusbheight-adjustable-6981",
+      "imageUrl": "https://www.anhoch.com/storage/media/17092024163621download(1).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27DM500EUXDU SMART M5 FHD, HDMIx2, USBx2, WiFi, BT, Tizen, Speakers, Remote",
+      "price": "11.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27dm500euxdu-smart-m5-fhd-hdmix2-usbx2-wifi-bt-tizen-speakers-remote-3373",
+      "imageUrl": "https://www.anhoch.com/storage/media/21102024161343download(2).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung ViewFinity S6 LS27B610EQUXEN IPS WQHD 2560x1440, 2xHDMI,DP,3xUSB,5ms,75Hz",
+      "price": "13.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-viewfinity-s6-ls27b610equxen-ips-wqhd-2560x1440-2xhdmidp3xusb5ms75hz-1842",
+      "imageUrl": "https://www.anhoch.com/storage/media/s27b610equ.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27\" Dell AW2724HF Alienware Gaming FHD Fast IPS 360Hz 1ms AMD FreeSync HDMI/2xDP/4xUSB/Audio",
+      "price": "22.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-aw2724hf-alienware-gaming-fhd-fast-ips-360hz-1ms-amd-freesync-hdmi2xdp4xusbaudio-2076",
+      "imageUrl": "https://www.anhoch.com/storage/media/aw2724hf.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 24\" Dell E2423HN FullHD VA VGA/HDMI/Tilt",
+      "price": "6.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-e2423hn-fullhd-va-vgahdmitilt-2078",
+      "imageUrl": "https://www.anhoch.com/storage/media/e2423hn.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 15.6\" MSI Portable PRO MP161 E2",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-156-msi-portable-pro-mp161-e2-2145",
+      "imageUrl": "https://www.anhoch.com/storage/media/promp161e2.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 28\" Samsung LS28BG700EPXEN Odyssey G7 Gaming 144Hz, 1ms, UHD, HDMI, DP, USB, HDR10, FreeSync",
+      "price": "24.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-28-samsung-ls28bg700epxen-odyssey-g7-gaming-144hz-1ms-uhd-hdmi-dp-usb-hdr10-freesync-0133",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls28bg700euxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27\" Dell S2722QC IPS UHD 4K 3840x2160 2xHDMI/DP/USB-C/2xUSB/Speakers",
+      "price": "20.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-s2722qc-ips-uhd-4k-3840x2160-2xhdmidpusbc2xusbspeakers-1660",
+      "imageUrl": "https://www.anhoch.com/storage/media/s2722qc.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 24\" Samsung LS24AG300NRXEN Odyssey G3 G30A 144Hz, 1ms, FHD, HDMI,DP, HAS, FreeSync Premium",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-samsung-ls24ag300nrxen-odyssey-g3-g30a-144hz-1ms-fhd-hdmidp-has-freesync-premium-8893",
+      "imageUrl": "https://www.anhoch.com/storage/media/lf24g35tfwuxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 24\" Lenovo Legion R24e Gaming IPS, 0.5ms, 180Hz, FHD, HDMI, DP, Tilt, Frameless",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lenovo-legion-r24e-gaming-ips-05ms-180hz-fhd-hdmi-dp-tilt-frameless-7377",
+      "imageUrl": "https://www.anhoch.com/storage/media/lenovo_legion_r24e_ct1_01.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27C366EAUXEN Curved 1800R 75Hz VA Panel, Full HD 1920x1080, HDMI, VGA, 4ms",
+      "price": "7.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27c366eauxen-curved-1800r-75hz-va-panel-full-hd-1920x1080-hdmi-vga-4ms-8898",
+      "imageUrl": "https://www.anhoch.com/storage/media/lc27f396fhuxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32DM703UUXDU SMART M7 4K UHD, HDMIx2, USBx3, WiFi, BT, Tizen, Spk, White",
+      "price": "18.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32dm703uuxdu-smart-m7-4k-uhd-hdmix2-usbx3-wifi-bt-tizen-spk-white-3780",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls32dm703uuxdu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 32\" LG 32GN600-B Gaming 165Hz, 1ms, QHD, HDR 10, 2xHDMI, DP, Tilt",
+      "price": "14.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-lg-32gn600b-gaming-165hz-1ms-qhd-hdr-10-2xhdmi-dp-tilt-2545",
+      "imageUrl": "https://www.anhoch.com/storage/media/lg32gn600b-1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27\" Lenovo ThinkVision T27hv-20 QHD IPS HDMI/2xDP/USB-C/4xUSB/Camera/Speakers/HAS",
+      "price": "19.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lenovo-thinkvision-t27hv20-qhd-ips-hdmi2xdpusbc4xusbcameraspeakershas-5890",
+      "imageUrl": "https://www.anhoch.com/storage/media/thinkvision_t27hv_20_ct1_01.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 24\" Lenovo ThinkVision T24i-30 FullHD IPS VGA/HDMI/DP Tilt, Swivel, Pivot,HeightAdj, 4xUSB",
+      "price": "8.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lenovo-thinkvision-t24i30-fullhd-ips-vgahdmidp-tilt-swivel-pivotheightadj-4xusb-2228",
+      "imageUrl": "https://www.anhoch.com/storage/media/63cfmatxeu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 34\" Samsung LS34C500GAUXEN 100Hz, UWQHD 3440x1440, 2xHDMI, DP",
+      "price": "16.880,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-samsung-ls34c500gauxen-100hz-uwqhd-3440x1440-2xhdmi-dp-8497",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls34c500gauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 34\" LG 34WP500-B IPS 75Hz, 5ms, 2560 x 1080 UWFHD, 2xHDMI,FreeSync, Tilt",
+      "price": "14.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-lg-34wp500b-ips-75hz-5ms-2560-x-1080-uwfhd-2xhdmifreesync-tilt-1339",
+      "imageUrl": "https://www.anhoch.com/storage/media/34wp550b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27\" BenQ PD2705Q IPS Designer 2560x1440 2K QHD, HDMI,DP,3xUSB,USB-C,Spk, KVM Switch, HDR10",
+      "price": "16.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-benq-pd2705q-ips-designer-2560x1440-2k-qhd-hdmidp3xusbusbcspk-kvm-switch-hdr10-2878",
+      "imageUrl": "https://www.anhoch.com/storage/media/pd2705q.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:14.047Z"
+    },
+    {
+      "name": "Monitor 27\" Benq GW2790QT IPS 2560x1440 QHD,75Hz, 2xHDMI, Display port,Speakers, White",
+      "price": "16.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-benq-gw2790qt-ips-2560x1440-qhd75hz-2xhdmi-display-portspeakers-white-2882",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 27\" Dell E2723H FullHD VA VGA/DP, Tilt",
+      "price": "7.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-e2723h-fullhd-va-vgadp-tilt-2079",
+      "imageUrl": "https://www.anhoch.com/storage/media/monitor-e2723h-black-gallery-2.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 27\" MSI PRO MP273A IPS, 100Hz, FHD, DP, HDMI, VGA, Speakers, Tilt, Frameless, VESA",
+      "price": "6.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-pro-mp273a-ips-100hz-fhd-dp-hdmi-vga-speakers-tilt-frameless-vesa-2649",
+      "imageUrl": "https://www.anhoch.com/storage/media/promp273a.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 24\" LG 24MP60G-B Gaming IPS 75Hz, 1ms, FHD, HDMI, DP, VGA, FreeSync, Tilt",
+      "price": "5.680,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lg-24mp60gb-gaming-ips-75hz-1ms-fhd-hdmi-dp-vga-freesync-tilt-7020",
+      "imageUrl": "https://www.anhoch.com/storage/media/27mp60gb.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor Verbatim Portable 14”",
+      "price": "7.890,00.",
+      "url": "https://www.anhoch.com/products/monitor-verbatim-portable-14-0621",
+      "imageUrl": "https://www.anhoch.com/storage/media/49591-1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 27\" Dell P2723DE IPS/QHD 2560x1440 60Hz HDMI/DP/USB-C/4xUSB 3.2/RJ-45",
+      "price": "20.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-p2723de-ipsqhd-2560x1440-60hz-hdmidpusbc4xusb-32rj45-7568",
+      "imageUrl": "https://www.anhoch.com/storage/media/p2723de(3).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32BG750NPXEN Odyssey G7 UHD 3840x2160,HDMI,DP,2xUSB,1ms,165Hz,AMD FreeSync Pro",
+      "price": "49.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32bg750npxen-odyssey-g7-uhd-3840x2160hdmidp2xusb1ms165hzamd-freesync-pro-9099",
+      "imageUrl": "https://www.anhoch.com/storage/media/ezgif.com-gif-maker(30).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 24\" Samsung LS24AM506NUXEN SMART M5 IPS FHD, HDMIx2, USB, WiFi, BT, Tizen, Speakers, Remote",
+      "price": "8.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-samsung-ls24am506nuxen-smart-m5-ips-fhd-hdmix2-usb-wifi-bt-tizen-speakers-remote-3994",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls24am506nuxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 27\" Lenovo D27-40 FullHD VA 75Hz 250n HDMI/VGA",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lenovo-d2740-fullhd-va-75hz-250n-hdmivga-1385",
+      "imageUrl": "https://www.anhoch.com/storage/media/67a3kac6eu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 27\" BenQ XL2746K Zowie LED Gaming 1ms Wide 240Hz,USBx3,HDMIx2,DVI Dual,DP,Height Adjustment",
+      "price": "28.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-benq-xl2746k-zowie-led-gaming-1ms-wide-240hzusbx3hdmix2dvi-dualdpheight-adjustment-4019",
+      "imageUrl": "https://www.anhoch.com/storage/media/9hlkjlbqbe_1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 32\" Philips 325B1L/00 IPS 16:9 2560x1440/HDMI/DP/USBx4/HAS/Speakers",
+      "price": "17.880,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-philips-325b1l00-ips-169-2560x1440hdmidpusbx4hasspeakers-7605",
+      "imageUrl": "https://www.anhoch.com/storage/media/325b1l00.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 28\" MSI G281UV LED eSports Gaming IPS, UHD 4K 60Hz, HDR, HDMIx2, DP, Frameless",
+      "price": "19.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-28-msi-g281uv-led-esports-gaming-ips-uhd-4k-60hz-hdr-hdmix2-dp-frameless-9678",
+      "imageUrl": "https://www.anhoch.com/storage/media/g281uv.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 22\" Lenovo L22i-40 FullHD IPS 75Hz 250n HDMI/VGA/Tilt/Freesync/Cloud Grey",
+      "price": "5.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-22-lenovo-l22i40-fullhd-ips-75hz-250n-hdmivgatiltfreesynccloud-grey-5889",
+      "imageUrl": "https://www.anhoch.com/storage/media/lenovo_l22i_40_ct1_01-600x336.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 24\" Dell U2424HE UltraSharp FullHD IPS 120Hz DP/2xHDMI/TypeC/4xUSB/Height Adjustable/RJ45",
+      "price": "16.880,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-u2424he-ultrasharp-fullhd-ips-120hz-dp2xhdmitypec4xusbheight-adjustablerj45-6982",
+      "imageUrl": "https://www.anhoch.com/storage/media/17092024164106download(2).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27MR400-B IPS 75Hz, 5ms, FHD, HDMI, VGA, FreeSync, Tilt",
+      "price": "6.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27mr400b-ips-75hz-5ms-fhd-hdmi-vga-freesync-tilt-2602",
+      "imageUrl": "https://www.anhoch.com/storage/media/27mr400b.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung ViewFinity S6 LS32D600UAUXEN IPS WQHD 2560x1440,HDMI,DP,USB,USB-C,LAN,5ms,100Hz",
+      "price": "18.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-viewfinity-s6-ls32d600uauxen-ips-wqhd-2560x1440hdmidpusbusbclan5ms100hz-3374",
+      "imageUrl": "https://www.anhoch.com/storage/media/21102024155208download.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor Verbatim Portable Touchscreen 14”",
+      "price": "10.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-verbatim-portable-touchscreen-14-9535",
+      "imageUrl": "https://www.anhoch.com/storage/media/49591-1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor Verbatim Portable Touchscreen 17.3”",
+      "price": "19.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-verbatim-portable-touchscreen-173-9024",
+      "imageUrl": "https://www.anhoch.com/storage/media/49593-1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 32\" AOC Q32P2CA IPS QHD 2560x1440, 75Hz,2xHDMI,DP,5xUSB,Speakers",
+      "price": "15.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-aoc-q32p2ca-ips-qhd-2560x1440-75hz2xhdmidp5xusbspeakers-1338",
+      "imageUrl": "https://www.anhoch.com/storage/media/q32p2-01.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 27\" MSI PRO MP273AW IPS, 100Hz, FHD, DP, HDMI, VGA, Speakers, Tilt, Frameless, VESA White",
+      "price": "6.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-pro-mp273aw-ips-100hz-fhd-dp-hdmi-vga-speakers-tilt-frameless-vesa-white-0066",
+      "imageUrl": "https://www.anhoch.com/storage/media/promp273aw-2.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:20.301Z"
+    },
+    {
+      "name": "Monitor 27\" Gigabyte GS27Q SS IPS LED Gaming 1ms, 165Hz/OC 170Hz, 2560 x 1440 QHD, 2xHDMI/DP, Tilt",
+      "price": "12.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-gigabyte-gs27q-ss-ips-led-gaming-1ms-165hzoc-170hz-2560-x-1440-qhd-2xhdmidp-tilt-2885",
+      "imageUrl": "https://www.anhoch.com/storage/media/gs27qek.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 27\" Dell G2724D Gaming QHD IPS 165Hz 1ms HDMI/2xDP/G-SYNC",
+      "price": "16.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-g2724d-gaming-qhd-ips-165hz-1ms-hdmi2xdpgsync-2075",
+      "imageUrl": "https://www.anhoch.com/storage/media/g2724d.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 24\" Dell P2425HE FHD IPS 100Hz USB-C/DP/HDMI/4xUSB/RJ45/PD",
+      "price": "13.380,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-p2425he-fhd-ips-100hz-usbcdphdmi4xusbrj45pd-7538",
+      "imageUrl": "https://www.anhoch.com/storage/media/p2425he.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 34\" Samsung Odyssey G8 LS34DG850SUXDU OLED UWQHD 3440 x 1440,HDMI,DP,HDR10, Silver",
+      "price": "56.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-samsung-odyssey-g8-ls34dg850suxdu-oled-uwqhd-3440-x-1440hdmidphdr10-silver-5754",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls34dg850suxdu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 24\" Acer Vero SB241Ybi IPS 1ms VRB, FHD, VGA, HDMI, Zero Frame, Speakers",
+      "price": "5.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-acer-vero-sb241ybi-ips-1ms-vrb-fhd-vga-hdmi-zero-frame-speakers-2350",
+      "imageUrl": "https://www.anhoch.com/storage/media/um.qs1ee.001.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 32\" MSI MPG 321URX QD-OLED/240Hz/3840x2160 UHD/16:9/HDR400/HDMIx2/DP/Type-C(90W PD)",
+      "price": "69.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-msi-mpg-321urx-qdoled240hz3840x2160-uhd169hdr400hdmix2dptypec90w-pd-5774",
+      "imageUrl": "https://www.anhoch.com/storage/media/mpg321urxqd-oled.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 27\" Acer Nitro VG270S3BMIIPX Gaming VA 1ms, 180Hz, FHD, 2xHDMI, DP, Spk, Tilt, FreeSync Prem",
+      "price": "8.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-acer-nitro-vg270s3bmiipx-gaming-va-1ms-180hz-fhd-2xhdmi-dp-spk-tilt-freesync-prem-7317",
+      "imageUrl": "https://www.anhoch.com/storage/media/vg270sb.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 34\" Gigabyte GS34WQC VA Gaming 1ms, OC 135Hz, WQHD, 120% sRGB, 2xHDMI/DP,Curved,Height,Tilt",
+      "price": "18.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-gigabyte-gs34wqc-va-gaming-1ms-oc-135hz-wqhd-120-srgb-2xhdmidpcurvedheighttilt-1917",
+      "imageUrl": "https://www.anhoch.com/storage/media/gs34wqc.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27AM500NRXEN SMART M5 FHD, HDMIx2, USBx2, WiFi, BT, Tizen, Speakers, Remote",
+      "price": "10.580,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27am500nrxen-smart-m5-fhd-hdmix2-usbx2-wifi-bt-tizen-speakers-remote-1948",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls27am500nrxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 27\" Lenovo ThinkVision T27hv-30 QHD IPS HDMI/DP/DP Out/USB-C/4xUSB/Camera/LAN/Speakers/HAS",
+      "price": "22.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lenovo-thinkvision-t27hv30-qhd-ips-hdmidpdp-outusbc4xusbcameralanspeakershas-7341",
+      "imageUrl": "https://www.anhoch.com/storage/media/thinkvision_t27hv_30_ct1_02.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 27\" HyperX Armada Gaming 165Hz, 1ms, QHD, 2xHDMI, DP, VESA,G-SYNC",
+      "price": "19.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-hyperx-armada-gaming-165hz-1ms-qhd-2xhdmi-dp-vesagsync-1376",
+      "imageUrl": "https://www.anhoch.com/storage/media/64v69aa.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 27\" BenQ GW2780E IPS 1920x1080 FHD, VGA,HDMI,Display port,Speakers, Black",
+      "price": "6.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-benq-gw2780e-ips-1920x1080-fhd-vgahdmidisplay-portspeakers-black-6818",
+      "imageUrl": "https://www.anhoch.com/storage/media/K2bJHcQrK8F2RXEPJ1IEL8ZPMRXGagDpISFHkFOc.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 32\" Dell P3223DE QHD 2560x1440 IPS 60Hz HDMI/2xDP/Type-C/4xUSB/USB Hub/LAN",
+      "price": "22.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-dell-p3223de-qhd-2560x1440-ips-60hz-hdmi2xdptypec4xusbusb-hublan-2148",
+      "imageUrl": "https://www.anhoch.com/storage/media/p3223de.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 24\" Samsung LS24C360EAUXEN Curved 1800R 75Hz VA Panel Freesync, FHD, HDMI, VGA, 4ms",
+      "price": "4.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-samsung-ls24c360eauxen-curved-1800r-75hz-va-panel-freesync-fhd-hdmi-vga-4ms-8891",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls24c360eauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 27\" Dell C2723H FHD IPS Video Conferencing Camera/Speakers DP/HDMI/5xUSB",
+      "price": "17.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-dell-c2723h-fhd-ips-video-conferencing-cameraspeakers-dphdmi5xusb-1164",
+      "imageUrl": "https://www.anhoch.com/storage/media/c2723h.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 32\" MSI G32CQ5P VA LED Gaming 1ms, 170Hz, 2560x1440 WQHD, HDMIx2, DP, Curved, HAS, Frameless",
+      "price": "14.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-msi-g32cq5p-va-led-gaming-1ms-170hz-2560x1440-wqhd-hdmix2-dp-curved-has-frameless-3260",
+      "imageUrl": "https://www.anhoch.com/storage/media/g32cq5p.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 25\" BenQ XL2566+ Zowie LED Gaming 1ms Wide 400Hz,USBx2,HDMIx3,DP,Height Adjustment,DyAc 2",
+      "price": "36.880,00.",
+      "url": "https://www.anhoch.com/products/monitor-25-benq-xl2566-plus--zowie-led-gaming-1ms-wide-400hzusbx2hdmix3dpheight-adjustmentdyac-2-4031",
+      "imageUrl": "https://www.anhoch.com/storage/media/xl2566+.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 27\" LG 27UL500P-W IPS 4K UHD 3840 x 2160, VESA, HDR, 2xHDMI/DP, FreeSync, Tilt",
+      "price": "13.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-lg-27ul500pw-ips-4k-uhd-3840-x-2160-vesa-hdr-2xhdmidp-freesync-tilt-9936",
+      "imageUrl": "https://www.anhoch.com/storage/media/27ul500pw.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LU32R591CWPXEN Curved 1500R VA Panel, UHD 3840x2160, HDMI, DP, 4ms, White",
+      "price": "18.880,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-lu32r591cwpxen-curved-1500r-va-panel-uhd-3840x2160-hdmi-dp-4ms-white-9434",
+      "imageUrl": "https://www.anhoch.com/storage/media/lu32r591cwpxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 55\" Sony FW-55BZ30L Signage Pro Display",
+      "price": "64.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-55-sony-fw55bz30l-signage-pro-display-3531",
+      "imageUrl": "https://www.anhoch.com/storage/media/fw-55bz30l.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:26.615Z"
+    },
+    {
+      "name": "Monitor 25\" Dell AW2523HF Alienware Gaming FullHD/FastIPS/1ms/360Hz 5xUSB/2xHDMI/DP/Audio/VESA/Lunar",
+      "price": "18.890,00.",
+      "url": "https://www.anhoch.com/products/monitor-25-dell-aw2523hf-alienware-gaming-fullhdfastips1ms360hz-5xusb2xhdmidpaudiovesalunar-0972",
+      "imageUrl": "https://www.anhoch.com/storage/media/aw2523hf.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 27'' Samsung LS27C902PAUXDU ViewFinity Smart IPS Panel 5K Thunderbolt4 USB-C Mini DP",
+      "price": "82.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27c902pauxdu-viewfinity-smart-ips-panel-5k-thunderbolt4-usbc-mini-dp-5941",
+      "imageUrl": "https://www.anhoch.com/storage/media/6gINOmhwfan6XXAnWAtPkKwhgGDxsswDc4HsHto4.png",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 24\" Dell S2421HN FullHD IPS 75Hz 2xHDMI VESA",
+      "price": "7.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-s2421hn-fullhd-ips-75hz-2xhdmi-vesa-8697",
+      "imageUrl": "https://www.anhoch.com/storage/media/21f70bcee4e590f4c5a0b4abe1fcc033.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 27\" MAG 275CQRXF Rapid VA,Gaming 1ms,240Hz,2560x1440 WQHD,2xHDMI/DP/Type-C,HDR400,1000R",
+      "price": "26.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-mag-275cqrxf-rapid-vagaming-1ms240hz2560x1440-wqhd2xhdmidptypechdr4001000r-1576",
+      "imageUrl": "https://www.anhoch.com/storage/media/mag275cqrxf.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 27\" MSI Modern MD272XP IPS, 100Hz, FHD, HDMI, DP, Type-C (PD 65W), HAS, KVM, Speakers",
+      "price": "10.780,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-msi-modern-md272xp-ips-100hz-fhd-hdmi-dp-typec-pd-65w-has-kvm-speakers-1577",
+      "imageUrl": "https://www.anhoch.com/storage/media/md272xp.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 24\" Dell P2423DE IPS/QHD 2560x1440 60Hz/HDMI/DP/USB-C/4xUSB 3.2/RJ-45",
+      "price": "16.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-dell-p2423de-ipsqhd-2560x1440-60hzhdmidpusbc4xusb-32rj45-5706",
+      "imageUrl": "https://www.anhoch.com/storage/media/slikaresisedp2423de.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 32\" LG 32UN650P-W LED IPS, 3840x2160 4K UHD 2xHDMI/DP/Speakers/HDR 10/FreeSync",
+      "price": "22.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-lg-32un650pw-led-ips-3840x2160-4k-uhd-2xhdmidpspeakershdr-10freesync-2606",
+      "imageUrl": "https://www.anhoch.com/storage/media/z01_32ul500-w_1600_01.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung ViewFinity S6 LS27D600UAUXEN IPS QHD 2560x1440,HDMI,DP,USB,USB-C,LAN,5ms,100Hz",
+      "price": "17.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-viewfinity-s6-ls27d600uauxen-ips-qhd-2560x1440hdmidpusbusbclan5ms100hz-3379",
+      "imageUrl": "https://www.anhoch.com/storage/media/25102024123532download(4).jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32BG650EUXEN Odyssey G6 QHD 2560x1440,2xHDMI,DP,2xUSB,1ms,240Hz",
+      "price": "26.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32bg650euxen-odyssey-g6-qhd-2560x14402xhdmidp2xusb1ms240hz-9287",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls32bg650euxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LU32J590UQPXEN UHD 3840x2160, 2xHDMI, DP, 4ms, Freesync",
+      "price": "17.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-lu32j590uqpxen-uhd-3840x2160-2xhdmi-dp-4ms-freesync-9289",
+      "imageUrl": "https://www.anhoch.com/storage/media/lu32j590uquxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung Odyssey G7 LS32DG702EUXDU IPS 4K 3840x2160, HDMI, DP, HDR10, Black",
+      "price": "32.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-odyssey-g7-ls32dg702euxdu-ips-4k-3840x2160-hdmi-dp-hdr10-black-5753",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls32dg702euxdu.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 32\" Dell P3223QE 4K 3840 x 2160 IPS 60Hz HDMI/DP/Type-C/4xUSB/LAN",
+      "price": "38.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-dell-p3223qe-4k-3840-x-2160-ips-60hz-hdmidptypec4xusblan-7559",
+      "imageUrl": "https://www.anhoch.com/storage/media/p3223qe.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 34\" MSI MPG 341CQPX QD-OLED/240Hz/3440x1440 UWQHD/21:9/HDR450/HDMIx2/DP/Type-C(98W PD)",
+      "price": "59.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-msi-mpg-341cqpx-qdoled240hz3440x1440-uwqhd219hdr450hdmix2dptypec98w-pd-5772",
+      "imageUrl": "https://www.anhoch.com/storage/media/mpg341cqpxqd-oled.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 24\" Lenovo ThinkVision T24i-2L FullHD IPS VGA/HDMI/DP Tilt, Swivel, Pivot USB",
+      "price": "10.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-lenovo-thinkvision-t24i2l-fullhd-ips-vgahdmidp-tilt-swivel-pivot-usb-9568",
+      "imageUrl": "https://www.anhoch.com/storage/media/62b0mat2eu_1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 34\" LG 34WR50QK-B VA Curved, UW QHD 3440x1440, 100Hz, HDR10,2xHDMI, DP, Black",
+      "price": "18.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-34-lg-34wr50qkb-va-curved-uw-qhd-3440x1440-100hz-hdr102xhdmi-dp-black-5796",
+      "imageUrl": "https://www.anhoch.com/storage/media/34wr50qk-b-1.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 24\" Acer Nitro QG240YH3Bbi FHD ZeroFrame VA 100Hz 1ms(VRB) VGA HDMI Audio out HDR10 FreeSync",
+      "price": "5.080,00.",
+      "url": "https://www.anhoch.com/products/monitor-24-acer-nitro-qg240yh3bbi-fhd-zeroframe-va-100hz-1msvrb-vga-hdmi-audio-out-hdr10-freesync-7338",
+      "imageUrl": "https://www.anhoch.com/storage/media/um.qq0ee.301.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 32\" LG 32UN650-W LED IPS, 3840x2160 4K UHD 2xHDMI/DP/Speakers/HDR 10/FreeSync",
+      "price": "22.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-lg-32un650w-led-ips-3840x2160-4k-uhd-2xhdmidpspeakershdr-10freesync-1184",
+      "imageUrl": "https://www.anhoch.com/storage/media/z01_32ul500-w_1600_01.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 49\" LG 49WL95C-W IPS, UW Dual QHD 5120x1440, 2xHDMI, DP, 4xUSB, Type-C, Speakers, HDR10",
+      "price": "65.980,00.",
+      "url": "https://www.anhoch.com/products/monitor-49-lg-49wl95cw-ips-uw-dual-qhd-5120x1440-2xhdmi-dp-4xusb-typec-speakers-hdr10-1185",
+      "imageUrl": "https://www.anhoch.com/storage/media/49wl95c-w.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 32\" Samsung LS32A700NWUXEN VA, UHD, HDMI, DP, HDR10",
+      "price": "15.480,00.",
+      "url": "https://www.anhoch.com/products/monitor-32-samsung-ls32a700nwuxen-va-uhd-hdmi-dp-hdr10-6565",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls32a700nwuxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    },
+    {
+      "name": "Monitor 27\" Samsung LS27C310EAUXEN IPS 75Hz, FHD, HDMI, VGA, Freesync, Frameless",
+      "price": "6.280,00.",
+      "url": "https://www.anhoch.com/products/monitor-27-samsung-ls27c310eauxen-ips-75hz-fhd-hdmi-vga-freesync-frameless-8892",
+      "imageUrl": "https://www.anhoch.com/storage/media/ls24c310eauxen.jpg",
+      "stock": "Unknown",
+      "category": "monitori",
+      "dateScraped": "2025-03-09T02:32:32.977Z"
+    }
+  ]
+}
